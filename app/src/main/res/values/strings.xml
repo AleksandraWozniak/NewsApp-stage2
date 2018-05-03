@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">NewsApp2</string>
+    <string name="no_news">No news were found. There was an unexpected problem with downloading data from the server. Close the app and try once again later.</string>
+    <string name="no_internet">No internet connection has been found. Please turn on your wifi or mobile data and restart the app.</string>
+    <string name="no_date">No date of article publication was found.</string>
+    <string name="no_webbrowser">No webbrowser has been found. Please download a webrowser.</string>
+
+    <!-- Settings Menu Item  -->
+    <string name="settings_menu_item">Settings</string>
+
+    <!-- Settings Activity Title  -->
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings for Order-By preference  -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <!-- Label for Order-by newest option  -->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Label for Order-by oldest option  -->
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <!-- Label for Order-by relevance option -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <!-- Other -->
+    <string name="q">q</string>
+    <string name="order_by">order-by</string>
+    <string name="page_size">page-size</string>
+    <string name="numOfItems">10</string>
+    <string name="show_tags">show-tags</string>
+    <string name="contributor">contributor</string>
+    <string name="api_key">api-key</string>
+    <string name="api_key_value">6f2b2fc3-131e-4731-8fbb-dd514a95c728</string>
+    <string name="section">section</string>
+    <string name="world">world</string>
+    <string name="business">business</string>
+    <string name="sport">sport</string>
+    <string name="science">science</string>
+    <string name="fashion">fashion</string>
+    <string name="environment">environment</string>
+    <string name="culture">culture</string>
+    <string name="society">society</string>
+    <string name="technology">technology</string>
+
+    <!--Strings to be used for the Preference Labels -->
+    <string name="settings_number_of_articles_label">Number of articles to be shown</string>
+    <string name="settings_number_of_articles_key" translatable="false">number_of_articles</string>
+    <string name="settings_number_of_articles_default" translatable="false">20</string>
+
+</resources>
